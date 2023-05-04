@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/lambda-csharp/.vs/LambdaPOC-CSharp/v17/.suo

@@ -1,0 +1,17 @@
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\DeleteSetting.deps.json
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\DeleteSetting.runtimeconfig.json
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\DeleteSetting.dll
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\DeleteSetting.pdb
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\Amazon.Lambda.Core.dll
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\bin\Debug\net7.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.csproj.AssemblyReference.cache
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.AssemblyInfoInputs.cache
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.AssemblyInfo.cs
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.csproj.CoreCompileInputs.cache
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.csproj.CopyComplete
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.dll
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\refint\DeleteSetting.dll
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.pdb
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\DeleteSetting.genruntimeconfig.cache
+C:\Code\lambda-poc-main\lambda-csharp\DeleteSetting\src\DeleteSetting\obj\Debug\net7.0\ref\DeleteSetting.dll
